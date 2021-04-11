@@ -8,7 +8,7 @@ https://public.tableau.com/profile/brooks.vandivort#!/vizhome/BikesharingStudy/B
 
 In determining the viability of a bike sharing program in Des Moines, Iowa, I first wanted to examine who uses the bikes and when. This first graph shows "customers" and "subscribers" and what time they used the bikes in New York City. It becomes apparent that “subscribers” make up most of the riders and they use the bikes during commute times typically seen during start and end times for work.
 
-![]( https://github.com/Brooks2210/bikesharing/blob/master/Resources/August_Peak_Riding_Hours.png)
+( https://github.com/Brooks2210/bikesharing/blob/master/Resources/August_Peak_Riding_Hours.png)
 
 Next, I wanted to see if there were any areas of New York that bikes were checked out more than others. Was the bike sharing program city wide or concentrated in a particular district?
 
