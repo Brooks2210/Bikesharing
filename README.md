@@ -1,8 +1,7 @@
 # Bike Sharing Study
 
 A client wants to start a bike sharing business in Des Moines, Iowa and he wants to use bike sharing data from New York City in order to pitch potential investors.  While Des Moines and New York City are quite different, my client is hoping to find enough similarities to make his pitch. The visualizations can be seen at this link: 
-[Bike Sharing Study] (
-https://public.tableau.com/profile/brooks.vandivort#!/vizhome/BikesharingStudy/BikesharingStudy?publish=yes)
+[Link Bike Sharing Study](https://public.tableau.com/profile/brooks.vandivort#!/vizhome/BikesharingStudy/BikesharingStudy?publish=yes)
 
 ## Preliminary Data
 
