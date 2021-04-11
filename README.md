@@ -12,31 +12,31 @@ In determining the viability of a bike sharing program in Des Moines, Iowa, I fi
 
 Next, I wanted to see if there were any areas of New York that bikes were checked out more than others. Was the bike sharing program city wide or concentrated in a particular district?
 
-![Top_Start_Locations.png](https://github.com/Brooks2210/Bikesharing/blob/master/Resources/Top_Start_Locations.png)
+![Top_Start_Locations.png](https://github.com/Brooks2210/Bikesharing/blob/main/Resources/Top_Start_Locations.png)
 
 As with the previous graph, I felt it was important to see if the start locations and the end locations had any type of relationship. You can see that most bike start and end points are in the same area.
 
-![Top_End_Locations.png](https://github.com/Brooks2210/Bikesharing/blob/master/Resources/Top_End_Locations.png)
+![Top_End_Locations.png](https://github.com/Brooks2210/Bikesharing/blob/main/Resources/Top_End_Locations.png)
 
 The following line graph is interesting. It displays how long a particular rider used the bike. Most trips are very short and suggest that the bikes are used as an easy way to ride a few blocks, possibly to work.
 
-![Checkout_Time_for_Users.png](https://github.com/Brooks2210/Bikesharing/blob/master/Resources/Checkout_Time_for_Users.png)
+![Checkout_Time_for_Users.png](https://github.com/Brooks2210/Bikesharing/blob/main/Resources/Checkout_Time_for_Users.png)
 
 The graph below displays the same information as the previous one but breaks the riders down by gender. Given that the hypothesis is that the bikes are used for short commutes to work, it is understandable that men use the bikes more than women. Dresses do not lend themselves to bike riding.
 
-![Checkout_Time_by_Gender.png](https://github.com/Brooks2210/Bikesharing/blob/master/Resources/Checkout_Time_by_Gender.png)
+![Checkout_Time_by_Gender.png](https://github.com/Brooks2210/Bikesharing/blob/main/Resources/Checkout_Time_by_Gender.png)
 
 The following heat map confirms that most bike trips occur at the start of the working day and the end of the workday. It is becoming apparent that if a bike sharing program is going to be successful in Des Moines, it needs to have a high-density business district that would attract “subscribers” to the service.
 
-![Trips_by_Weekday_per_Hour.png](https://github.com/Brooks2210/Bikesharing/blob/master/Resources/Trips_by_Weekday_per_Hour.png)
+![Trips_by_Weekday_per_Hour.png](https://github.com/Brooks2210/Bikesharing/blob/main/Resources/Trips_by_Weekday_per_Hour.png)
 
 Supporting evidence that men use the bikes more than women.
 
-![Trips_by_Gender.png](https://github.com/Brooks2210/Bikesharing/blob/master/Resources/Trips_by_Gender.png)
+![Trips_by_Gender.png](https://github.com/Brooks2210/Bikesharing/blob/main/Resources/Trips_by_Gender.png)
 
 Finally, an illustration displaying the days of the week that the bikes are used the most. Again, reaffirming the notion that most bike rides are used during the week for short commutes to work. 
 
-![User_Trip_by_Gender.png](https://github.com/Brooks2210/Bikesharing/blob/master/Resources/User_Trip_by_Gender.png)
+![User_Trip_by_Gender.png](https://github.com/Brooks2210/Bikesharing/blob/main/Resources/User_Trip_by_Gender.png)
 
 
 ## Conclusion 
